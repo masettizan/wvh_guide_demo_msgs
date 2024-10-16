@@ -1,0 +1,14 @@
+# Goal
+
+float32[] orientation
+float32[] position
+string goal
+
+---
+# Result
+
+float32[] orientation
+float32[] position
+string directions
+
+---
