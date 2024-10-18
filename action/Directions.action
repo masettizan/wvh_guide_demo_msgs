@@ -1,7 +1,7 @@
 # Goal
 
 float32[] orientation
-float32[] position
+string position
 string goal
 
 ---

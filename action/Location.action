@@ -1,0 +1,11 @@
+# Goal
+
+string start_node
+string type
+
+---
+# Result
+
+string goal_node
+
+---
