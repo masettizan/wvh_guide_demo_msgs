@@ -1,0 +1,15 @@
+# Goal
+
+string goal
+
+---
+# Result
+
+bool success
+string message
+
+---
+# Feedback
+
+float64 current_x
+float64 current_y

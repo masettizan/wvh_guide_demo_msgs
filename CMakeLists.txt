@@ -27,6 +27,7 @@ endif()
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "action/Directions.action"
+  "action/Navigation.action"
   DEPENDENCIES builtin_interfaces
 )
 
